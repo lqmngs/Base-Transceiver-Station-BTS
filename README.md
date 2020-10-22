@@ -1,9 +1,9 @@
 <h2>Tugas Kelompok Pengantar Telekomunikasi</h2>
 
-Kelompok 7
-Ketua kelompok : Muhammad Irfan Karim
-Anggota:
-Malik Akbar
-Luqman Agus Dwiyono
-Rizky Ramadan
-Yoga Fanhari
+<p>Kelompok 7</p>
+<p>Ketua kelompok : Muhammad Irfan Karim</p>
+<p>Anggota:</p>
+<p>Malik Akbar</p>
+<p>Luqman Agus Dwiyono</p>
+<p>Rizky Ramadan</p>
+<p>Yoga Fanhari</p>
